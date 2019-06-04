@@ -1,0 +1,6 @@
+.category-item{ text-decoration: none !important; color: #999; }
+.category-item:hover{ text-decoration: none !important; color: #000; }
+
+.badge{ padding: 7px !important; }
+
+.total-cats{ border: 1px solid #999; padding: 10px 15px; border-radius: 10px; }
